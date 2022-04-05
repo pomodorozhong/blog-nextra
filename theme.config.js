@@ -2,6 +2,7 @@ const YEAR = new Date().getFullYear()
 
 export default {
   darkMode: true,
+  titleSuffix: " - pomodorozhong",
   footer: (
     <div>
       <hr />
